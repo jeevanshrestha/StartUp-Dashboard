@@ -1,4 +1,5 @@
-pandas
-plotly
-numpy
-streamlit
+pandas~=2.2.3
+plotly~=5.24.1
+numpy~=2.1.3
+streamlit~=1.40.0
+scikit-learn~=1.5.2
